@@ -36,6 +36,10 @@ In this exercise we shall **write simple programs** in C# to print texts and cal
 
 [code-task title="Print Name + Expression" executionStrategy="csharp-dot-net-core-code"]
 
+[code-editor language=csharp]
+[/code-editor]
+
+[task-description]
 Write a program to **print your name** at the first line and calculate and **print the expression** `5 + 3` at the second line.
 
 The expected **output** from your program might look like this:
@@ -48,9 +52,9 @@ Another valid **output** example:
 Peter
 8
 ```
+[/task-description]
 
-[code-editor language=csharp]
-[/code-editor]
+[code-io /]
 
 [/code-task]
 
